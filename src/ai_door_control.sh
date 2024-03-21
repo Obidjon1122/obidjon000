@@ -21,3 +21,4 @@ do
        echo 'Проверка успешно завершена.'
     fi
     sleep $[ RANDOM % 10 + 1 ];
+done
